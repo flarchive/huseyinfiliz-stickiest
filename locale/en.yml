@@ -1,0 +1,35 @@
+huseyinfiliz-stickiest:
+  admin:
+    settings:
+      show_tag_sticky_label: Show tag stickies in All Discussions
+      show_tag_sticky_help: When disabled, tag sticky discussions only appear when viewing that specific tag.
+      stickiest_icon_label: Super sticky badge icon
+      stickiest_icon_help: Font Awesome icon class (e.g., fas fa-star)
+    
+    permissions:
+      stickiest_label: Super sticky discussions
+      tag_sticky_label: Tag sticky discussions
+
+  forum:
+    badge:
+      sticky_tooltip: Sticky
+      stickiest_tooltip: Super Sticky
+      tag_sticky_tooltip: Tag Sticky
+    
+    discussion_controls:
+      sticky_button: Sticky
+    
+    sticky_modal:
+      title: "Sticky: {title}"
+      sticky_label: Sticky
+      sticky_help: Pin to top in All Discussions when unread, always pinned in tag view.
+      stickiest_label: Super Sticky
+      stickiest_help: Always pinned to the very top everywhere.
+      tag_sticky_label: Tag Sticky
+      tag_sticky_help: Only pinned when viewing selected tags.
+      select_tags: Select tags
+      submit_button: Save Changes
+
+    post_stream:
+      discussion_stickiest_text: "{username} marked the discussion as super sticky."
+      discussion_unstickiest_text: "{username} unmarked the discussion as super sticky."
