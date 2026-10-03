@@ -2,13 +2,17 @@
 
 > **Read-only archive of released versions of huseyinfiliz/stickiest.** Not for installation: use [Packagist](https://packagist.org/packages/huseyinfiliz/stickiest) or the [upstream repository](https://github.com/huseyinfiliz/stickiest).
 
-**0** versions archived · Latest: [`2.0.0`](https://github.com/flarchive/huseyinfiliz-stickiest/tree/archive/v2.0.0) · License: `MIT` · Flarum: `^2.0`
+**5** versions archived · Latest: [`2.0.0`](https://github.com/flarchive/huseyinfiliz-stickiest/tree/archive/v2.0.0) · License: `MIT` · Flarum: `^2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.3` | 2026-04-15 | `^1.2.0` | [Browse](https://github.com/flarchive/huseyinfiliz-stickiest/tree/archive/v1.0.3) |
+| `1.1.0` | 2026-09-14 | `^1.2.0` | [Browse](https://github.com/flarchive/huseyinfiliz-stickiest/tree/archive/v1.1.0) |
+| `2.0.0` | 2026-09-14 | `^2.0` | [Browse](https://github.com/flarchive/huseyinfiliz-stickiest/tree/archive/v2.0.0) |
+| `2.0.0-beta.1` | 2025-12-11 | `^2.0` | [Browse](https://github.com/flarchive/huseyinfiliz-stickiest/tree/archive/v2.0.0-beta.1) |
+| `2.0.0-beta.2` | 2026-03-24 | `^2.0` | [Browse](https://github.com/flarchive/huseyinfiliz-stickiest/tree/archive/v2.0.0-beta.2) |
 
 Catalog entry: [packages/huseyinfiliz-stickiest.json](https://github.com/flarchive/archive-index/blob/main/packages/huseyinfiliz-stickiest.json)
 
